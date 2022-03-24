@@ -109,6 +109,8 @@ export default {
     width: min-content;
   }
   &__img {
+    min-width: 150px;
+    min-height: 150px;
     cursor: pointer;
     display: block;
     border-radius: 4px;
